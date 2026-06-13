@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Palette: Deep Oud & Champagne — parfum premium */
+  --primary: #b8860b;          /* Dark Goldenrod — warna emas parfum */
+  --primary-hover: #9a7009;    /* Gold gelap */
+  --primary-light: #d4a72c;    /* Gold terang */
+  --accent-night: #2d1b69;     /* Deep violet — parfum malam */
+  --accent-day: #c084a0;       /* Dusty rose — parfum siang */
+  --bg-light: #faf8f5;         /* Krem hangat */
+  --bg-section: #f5f0e8;       /* Krem sedikit lebih gelap */
+  --bg-card: rgba(255, 253, 248, 0.92);
+  --text-main: #1a1409;        /* Coklat hampir hitam */
+  --text-muted: #6b5c44;       /* Coklat medium */
+  --border-color: rgba(184, 134, 11, 0.18);
+  --border-hover: rgba(184, 134, 11, 0.45);
+
+  /* Glow Effects */
+  --glow-gold: rgba(184, 134, 11, 0.14);
+  --glow-gold-soft: rgba(212, 167, 44, 0.07);
+  --glow-night: rgba(45, 27, 105, 0.12);
+
+  /* Border Radius */
+  --radius-lg: 20px;
+  --radius-md: 12px;
+  --radius-sm: 8px;
+
+  /* Transitions */
+  --transition: all 0.38s cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Typography */
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
+
+body {
+  background-color: var(--bg-light);
+  color: var(--text-main);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-display);
+  line-height: 1.1;
+}
+
+em {
+  font-style: italic;
+  color: var(--primary);
+}
+
+a {
+  color: var(--primary);
+  transition: var(--transition);
+}
+
+a:hover {
+  color: var(--primary-hover);
+}
+
+.section-eyebrow {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--primary);
+  padding: 0.3rem 0.85rem;
+  background: rgba(184, 134, 11, 0.1);
+  border: 1px solid var(--border-color);
+  border-radius: 999px;
+}

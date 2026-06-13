@@ -1,0 +1,244 @@
+{
+  "categories": [
+    {
+    "id": "siang",
+    "name": "🌞 Parfum Siang",
+    "emoji": "🌞"
+    },
+    {
+    "id": "malam",
+    "name": "🌙 Parfum Malam",
+    "emoji": "🌙"
+    }
+  ],
+  "products": [
+    {
+  "name": "Mykonos Dreamscape",
+  "brand": "Mykonos",
+  "category": "siang",
+
+  "images": {
+    "2ml": "./assets/images/Mykonos-Dreamscape 2ml.jpeg",
+    "5ml": "./assets/images/Mykonos-Dreamscape 5ml.jpeg",
+    "10ml": "./assets/images/Mykonos-Dreamscape 10ml.jpeg"
+  },
+
+  "description": "Aroma segar dan elegan, cocok digunakan pada siang hari.",
+
+  "harga": {
+    "2ml": "Rp 15.000",
+    "5ml": "Rp 30.000",
+    "10ml": "Rp 55.000"
+  }
+},
+    {
+  "name": "Mykonos Conquer",
+  "brand": "Mykonos",
+  "category": "siang",
+
+  "images": {
+    "2ml": "assets/images/Mykonos-Conquer 2ml.jpeg",
+    "5ml": "assets/images/Mykonos-Conquer 5ml.jpeg",
+    "10ml": "assets/images/Mykonos-Conquer 10ml.jpeg"
+  },
+
+  "description": "Parfum maskulin dengan karakter kuat dan elegan, cocok untuk aktivitas siang hari.",
+
+  "harga": {
+    "2ml": "Rp 18.000",
+    "5ml": "Rp 35.000",
+    "10ml": "Rp 60.000"
+  }
+},
+    {
+  "name": "Velixir Narcisus",
+  "brand": "Velixir",
+  "category": "siang",
+
+  "images": {
+    "2ml": "assets/images/Velixir-Narcisus 2ml.jpeg",
+    "5ml": "assets/images/Velixir-Narcisus 5ml.jpeg",
+    "10ml": "assets/images/Velixir-Narcisus 10ml.jpeg"
+  },
+
+  "description": "Aroma elegan dan berkarakter yang cocok digunakan untuk aktivitas siang hari.",
+
+  "harga": {
+    "2ml": "Rp 18.000",
+    "5ml": "Rp 35.000",
+    "10ml": "Rp 60.000"
+  }
+},
+    {
+  "name": "Black Onyx Zataru",
+  "brand": "Black Onyx",
+  "category": "siang",
+
+  "images": {
+    "2ml": "assets/images/Black Onyx-Zataru 2ml.jpeg",
+    "5ml": "assets/images/Black Onyx-Zataru 5ml.jpeg",
+    "10ml": "assets/images/Black Onyx-Zataru 10ml.jpeg"
+  },
+
+  "description": "Wangi modern dengan karakter kuat dan mewah untuk menemani aktivitas harian.",
+
+  "harga": {
+    "2ml": "Rp 18.000",
+    "5ml": "Rp 35.000",
+    "10ml": "Rp 60.000"
+  }
+},
+    {
+  "name": "Mandalika No 1",
+  "brand": "Mandalika",
+  "category": "siang",
+
+  "images": {
+    "2ml": "assets/images/Mandalika-No1 2ml.jpeg",
+    "5ml": "assets/images/Mandalika-No1 5ml.jpeg",
+    "10ml": "assets/images/Mandalika-No1 10ml.jpeg"
+  },
+
+  "description": "Parfum premium dengan aroma khas yang segar dan berkelas.",
+
+  "harga": {
+    "2ml": "Rp 25.000",
+    "5ml": "Rp 50.000",
+    "10ml": "Rp 95.000"
+  }
+},
+    {
+  "name": "Project 1945 Waters Of Maluku",
+  "brand": "Project 1945",
+  "category": "siang",
+
+  "images": {
+    "2ml": "assets/images/Project 1945-Waters Of Maluku 2ml.jpeg",
+    "5ml": "assets/images/Project 1945-Waters Of Maluku 5ml.jpeg",
+    "10ml": "assets/images/Project 1945-Waters Of Maluku 10ml.jpeg"
+  },
+
+  "description": "Aroma segar yang terinspirasi dari keindahan perairan Maluku.",
+
+  "harga": {
+    "2ml": "Rp 15.000",
+    "5ml": "Rp 30.000",
+    "10ml": "Rp 50.000"
+  }
+},
+    {
+  "name": "French Avenue Aromatix",
+  "brand": "French Avenue",
+  "category": "malam",
+
+  "images": {
+    "2ml": "assets/images/French Avenue-Aromatix 2ml.jpeg",
+    "5ml": "assets/images/French Avenue-Aromatix 5ml.jpeg",
+    "10ml": "assets/images/French Avenue-Aromatix 10ml.jpeg"
+  },
+
+  "description": "Aroma malam yang elegan dan berkelas, cocok untuk acara spesial maupun aktivitas malam hari.",
+
+  "harga": {
+    "2ml": "Rp 20.000",
+    "5ml": "Rp 45.000",
+    "10ml": "Rp 80.000"
+  }
+},
+    {
+  "name": "French Avenue Grow",
+  "brand": "French Avenue",
+  "category": "malam",
+
+  "images": {
+    "2ml": "assets/images/French Avenue-Grow 2ml.jpeg",
+    "5ml": "assets/images/French Avenue-Grow 5ml.jpeg",
+    "10ml": "assets/images/French Avenue-Grow 10ml.jpeg"
+  },
+
+  "description": "Karakter aroma yang kuat dan modern, memberikan kesan percaya diri sepanjang malam.",
+
+  "harga": {
+    "2ml": "Rp 22.000",
+    "5ml": "Rp 45.000",
+    "10ml": "Rp 80.000"
+  }
+},
+    {
+  "name": "Haramain Amber Oud",
+  "brand": "Haramain",
+  "category": "malam",
+
+  "images": {
+    "2ml": "assets/images/Haramain-Amber Oud 2ml.jpeg",
+    "5ml": "assets/images/Haramain-Amber Oud 5ml.jpeg",
+    "10ml": "assets/images/Haramain-Amber Oud 10ml.jpeg"
+  },
+
+  "description": "Perpaduan amber dan oud yang mewah, memberikan kesan eksklusif dan tahan lama.",
+
+  "harga": {
+    "2ml": "Rp 40.000",
+    "5ml": "Rp 75.000",
+    "10ml": "Rp 145.000"
+  }
+},
+    {
+  "name": "Mykonos Silent Wisper",
+  "brand": "Mykonos",
+  "category": "malam",
+
+  "images": {
+    "2ml": "assets/images/Mykonos-Silent Wisper 2ml.jpeg",
+    "5ml": "assets/images/Mykonos-Silent Wisper 5ml.jpeg",
+    "10ml": "assets/images/Mykonos-Silent Wisper 10ml.jpeg"
+  },
+
+  "description": "Aroma lembut namun memikat yang cocok untuk suasana malam yang santai dan berkesan.",
+
+  "harga": {
+    "2ml": "Rp 15.000",
+    "5ml": "Rp 30.000",
+    "10ml": "Rp 55.000"
+  }
+},
+    {
+  "name": "Project 1945 Symphony Of Borobudur",
+  "brand": "Project 1945",
+  "category": "malam",
+
+  "images": {
+    "2ml": "assets/images/Project 1945-Symphony Of Borobudur 2ml.jpeg",
+    "5ml": "assets/images/Project 1945-Symphony Of Borobudur 5ml.jpeg",
+    "10ml": "assets/images/Project 1945-Symphony Of Borobudur 10ml.jpeg"
+  },
+
+  "description": "Aroma khas yang terinspirasi dari kemegahan budaya Nusantara dengan sentuhan elegan.",
+
+  "harga": {
+    "2ml": "Rp 15.000",
+    "5ml": "Rp 30.000",
+    "10ml": "Rp 50.000"
+  }
+},
+    {
+  "name": "Royal Brend Nero",
+  "brand": "Royal Brend",
+  "category": "malam",
+
+  "images": {
+    "2ml": "assets/images/Royal Brend-Nero 2ml.jpeg",
+    "5ml": "assets/images/Royal Brend-Nero 5ml.jpeg",
+    "10ml": "assets/images/Royal Brend-Nero 10ml.jpeg"
+  },
+
+  "description": "Parfum malam dengan karakter maskulin yang kuat dan elegan untuk berbagai kesempatan.",
+
+  "harga": {
+    "2ml": "Rp 20.000",
+    "5ml": "Rp 40.000",
+    "10ml": "Rp 75.000"
+  }
+}
+  ]
+}
