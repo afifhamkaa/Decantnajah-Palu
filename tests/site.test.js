@@ -44,3 +44,6 @@ test("File JavaScript tidak memiliki syntax error", () => {
     );
   }
 });
+test("Simulasi kegagalan CI Pipeline", () => {
+  assert.equal(1, 2);
+});
