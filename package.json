@@ -1,0 +1,10 @@
+
+{
+  "name": "decantnajah",
+  "version": "1.0.0",
+  "description": "Website Decantnajah Palu",
+  "scripts": {
+    "build": "node -e \"require('node:fs').accessSync('index.html'); console.log('Static website build check passed')\"",
+    "test": "node --test"
+  }
+}
